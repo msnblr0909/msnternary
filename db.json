@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Raghvendra",
+      "party": "BJP"
+    },
+    {
+      "id": 4,
+      "name": "Manjunath",
+      "party": "BJP"
+    },
+    {
+      "id": 5,
+      "name": "Manjunath",
+      "party": "BJP"
+    },
+    {
+      "id": 6,
+      "name": "Satish",
+      "party": "JDS"
+    },
+    {
+      "id": 7,
+      "name": "Naveen",
+      "party": "JDS"
+    }
+  ]
+}
